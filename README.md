@@ -24,6 +24,7 @@ Part 1. Read in all high level text files (Subjects, Activities, 561 large vecto
 6 LAYING
 
 Part 4 - Modify the Column names from  abbreviations to longer more descriptve names (tBodyAcc-mean()-X went toTimeBodyAccelerometerMean()-X
+
 Part 5 
   a.  ASggregate the data table that find the average by subject and activity (tidyData_Mean).
   b. Write a file that takes the mean by Subject anb Activity (file - :Tidy_Mean.txt"
